@@ -1,0 +1,159 @@
+*
+{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header
+{
+    width: 100%;
+}
+
+header .titulo-header
+{
+    width: 100%;
+    background-color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+header .titulo-header h1
+{
+    margin: 0;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight:500;
+}
+
+header .img-header img
+{
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.desc-section
+{
+    background: #000000;
+    color: #ffffff;
+    padding-top: 0px;
+    /*height: 400px;*/
+    align-items: center;
+}
+
+.desc-section .content-parrafo-img
+{
+    width: 80%;
+    margin: auto;
+}
+
+.content-parrafo-img .parrafo
+{
+    width: 50%;
+    margin-left: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 55px;
+}
+
+.content-parrafo-img img
+{
+    width: 45%;
+    padding: 40px;
+}
+
+.content-parrafo-img .parrafo, img
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#caracteristicas
+{
+    background: #1e1a13;
+    color: #ffffff;
+    align-items: center;
+}
+
+#caracteristicas .titulo-caracteristicas
+{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 40px;
+}
+
+.icons-section
+{
+    padding: 30px;
+    text-align: center;
+}
+
+
+.icons-section .ojo, .paz, .pincel, i
+{
+    font-size: 60px;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 30px;
+}
+
+.icons-section .ojo, .paz, .pincel, h3 
+{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    /*padding: 20px;*/
+}
+
+.icons-section .ojo, .paz, .pincel
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 40px;
+}
+
+#imagenes
+{
+    background: #000000;
+    padding: 50px;
+    text-align: center;
+}
+
+#imagenes .img-1, .img-2, .img-3
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 316px;
+    height: 202px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer
+{
+    background-color: #1e1a13;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+
+footer i
+{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
